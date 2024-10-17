@@ -20,3 +20,4 @@
 |---------|----------------------------------------------|
 | dc-choi | [1%씩 100번 바꾸기](https://dc-choi.tistory.com/) |
 | mint3382 | [mint_raum 민트의 꿈](https://mintraum.tistory.com/) |
+| dev2potato | [dev2potato 블로그](https://dev2potato.kr) |
