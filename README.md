@@ -19,3 +19,4 @@
 | 참가자     | wiki link                                    |
 |---------|----------------------------------------------|
 | dc-choi | [1%씩 100번 바꾸기](https://dc-choi.tistory.com/) |
+| mint3382 | [mint_raum 민트의 꿈](https://mintraum.tistory.com/) |
