@@ -22,3 +22,4 @@
 | mint3382 | [mint_raum 민트의 꿈](https://mintraum.tistory.com/) |
 | dev2potato | [dev2potato 블로그](https://dev2potato.kr) |
 | r6hex-1g | [rahyi_log (라희 로그)](https://velog.io/@cheriiin_/posts) |
+| yayyz | [yayz's devlog](https://yay-dev.tistory.com/) |
