@@ -24,3 +24,4 @@
 | r6hex-1g | [rahyi_log (라희 로그)](https://velog.io/@cheriiin_/posts) |
 | yayyz | [yayz's devlog](https://yay-dev.tistory.com/) |
 | toastlee |[ToastLee 노션](https://www.notion.so/toastlee/122b3d12df6b80df9583ecf87fbfc974?pvs=4) |
+| misterq55 | [Q's Blog](https://misterq.tistory.com/) |
