@@ -29,4 +29,5 @@
 | toastlee   | [ToastLee 노션](https://www.notion.so/toastlee/122b3d12df6b80df9583ecf87fbfc974?pvs=4) |
 | kimwlsgh33 | [cube 블로그](https://blog.naver.com/mooncomon)                                        |
 | ping9(sihoo67) |[핑구 노션](https://www.notion.so/124d1c7edd0d8079bb66fb345dfeecf6?pvs=4) |
+| nowgnas | [marshmel.log](https://nowgnas.github.io/) |
 | misterq55 | [Q's Blog](https://misterq.tistory.com/) |
