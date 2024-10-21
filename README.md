@@ -31,3 +31,4 @@
 | ping9(sihoo67) |[핑구 노션](https://www.notion.so/124d1c7edd0d8079bb66fb345dfeecf6?pvs=4) |
 | nowgnas |[marshmel.log](https://nowgnas.github.io/) |
 | kyunga |[kyunga.log](https://kyung-a.tistory.com/) |
+| misterq55 | [Q's Blog](https://misterq.tistory.com/) |
