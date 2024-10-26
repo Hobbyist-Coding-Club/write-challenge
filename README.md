@@ -19,18 +19,17 @@
 - 그런 다음 이 레포의 main 브랜치로 PR을 보낸 후 리뷰어로 dc-choi를 지정해주세요.
 - (잘 모르겠다면 discord에서 도와드릴게요!)
 
-| 참가자         | wiki link                                                                              |
-| -------------- | -------------------------------------------------------------------------------------- |
-| dc-choi        | [1%씩 100번 바꾸기](https://dc-choi.tistory.com/)                                      |
-| mint3382       | [mint_raum 민트의 꿈](https://mintraum.tistory.com/)                                   |
-| dev2potato     | [dev2potato 블로그](https://dev2potato.kr)                                             |
-| r6hex-1g       | [rahyi_log (라희 로그)](https://velog.io/@cheriiin_/posts)                             |
-| yayyz          | [yayz's devlog](https://yay-dev.tistory.com/)                                          |
+| 참가자            | wiki link                                                                            |
+|----------------|--------------------------------------------------------------------------------------|
+| dc-choi        | [1%씩 100번 바꾸기](https://dc-choi.tistory.com/)                                         |
+| mint3382       | [mint_raum 민트의 꿈](https://mintraum.tistory.com/)                                     |
+| dev2potato     | [dev2potato 블로그](https://dev2potato.kr)                                              |
+| r6hex-1g       | [rahyi_log (라희 로그)](https://velog.io/@cheriiin_/posts)                               |
+| yayyz          | [yayz's devlog](https://yay-dev.tistory.com/)                                        |
 | toastlee       | [ToastLee 노션](https://www.notion.so/toastlee/122b3d12df6b80df9583ecf87fbfc974?pvs=4) |
-| kimwlsgh33     | [cube 블로그](https://blog.naver.com/mooncomon)                                        |
-| ping9(sihoo67) | [핑구 노션](https://www.notion.so/124d1c7edd0d8079bb66fb345dfeecf6?pvs=4)              |
-| nowgnas        | [marshmel.log](https://nowgnas.github.io/)                                             |
-| kyunga         | [kyunga.log](https://kyung-a.tistory.com/)                                             |
-| misterq55      | [Q's Blog](https://misterq.tistory.com/)                                               |
-| gordon         | [gordon](https://velog.io/@hjy0616/posts)                                              |
-| ping9(sihoo67) |[핑구의 일기장](https://www.notion.so/124d1c7edd0d8079bb66fb345dfeecf6?pvs=4)              |
+| kimwlsgh33     | [cube 블로그](https://blog.naver.com/mooncomon)                                         |
+| ping9(sihoo67) | [핑구 노션](https://www.notion.so/124d1c7edd0d8079bb66fb345dfeecf6?pvs=4)                |
+| nowgnas        | [marshmel.log](https://nowgnas.github.io/)                                           |
+| kyunga         | [kyunga.log](https://kyung-a.tistory.com/)                                           |
+| misterq55      | [Q's Blog](https://misterq.tistory.com/)                                             |
+| gordon         | [gordon](https://velog.io/@hjy0616/posts)                                            |
