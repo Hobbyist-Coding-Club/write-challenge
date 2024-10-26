@@ -33,3 +33,4 @@
 | kyunga         | [kyunga.log](https://kyung-a.tistory.com/)                                             |
 | misterq55      | [Q's Blog](https://misterq.tistory.com/)                                               |
 | gordon         | [gordon](https://velog.io/@hjy0616/posts)                                              |
+| ping9(sihoo67) |[핑구의 일기장](https://www.notion.so/124d1c7edd0d8079bb66fb345dfeecf6?pvs=4)              |
