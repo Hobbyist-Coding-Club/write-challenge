@@ -33,3 +33,4 @@
 | kyunga         | [kyunga.log](https://kyung-a.tistory.com/)                                           |
 | misterq55      | [Q's Blog](https://misterq.tistory.com/)                                             |
 | gordon         | [gordon](https://velog.io/@hjy0616/posts)                                            |
+| juppiiiii         | [juppppi](https://juheesvt.notion.site/ad65c6cace524f6d854af54c0d30e44e?v=ed15b08fe48544de98b448b20d8d0472&pvs=4)|
