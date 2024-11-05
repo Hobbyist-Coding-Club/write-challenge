@@ -34,3 +34,4 @@
 | misterq55      | [Q's Blog](https://misterq.tistory.com/)                                             |
 | gordon         | [gordon](https://velog.io/@hjy0616/posts)                                            |
 | juppiiiii         | [juppiiiii 노션](https://juheesvt.notion.site/ad65c6cace524f6d854af54c0d30e44e?v=ed15b08fe48544de98b448b20d8d0472&pvs=4)|
+| amormanet      |[브이 판타지](https://amor-manet.tistory.com/)                                           |
